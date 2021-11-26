@@ -141,5 +141,4 @@ def create_shop_df():
     return df
 
 
-df = create_shop_df()
-show_GUI_table(df)
+
